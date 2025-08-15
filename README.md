@@ -1,4 +1,4 @@
-# Air_Quality_Index
+
 
 # Air Quality Index (AQI) 
 
