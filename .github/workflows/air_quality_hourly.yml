@@ -1,12 +1,12 @@
 
 name: india_air_quality_json
 
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-   workflow_dispatch:
 #on:
- # schedule:
-  #   - cron: '45 * * * *'  
+  # Triggers the workflow on push or pull request events but only for the main branch
+   #workflow_dispatch:
+on:
+   schedule:
+      - cron: '45 * * * *'  
 
 jobs:
   
